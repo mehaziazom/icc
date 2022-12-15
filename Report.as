@@ -13,3 +13,8 @@ Cloud Technology has provided many solutions of some business problems.The most 
 *Inform staff members about phishing
 *Make sure you adhere to IT compliance standards
 Response to security incidents quickly
+Justification:
+A managed cloud service provider would be the best choice for the clothig store,as it would provide them with the necessary technical support and maitenance without requiring them to hire additinoal IT staff.Cloud marketing will make a huge inpact on the sales and profit of the company.Customers are changing their mind based on the marketing approaches.It is the right way to develop business in the market.
+Moreover, it is difficult to understand about the cloud marketing but it can be a reliable and feasible solution for the company.it provides a better backup of data and information for marketing as well.
+Terefore,it should be used for the development the company for the future.In this way,the clothes store could concentrate on what they do best while leaving the technical aspects to the service provide.
+The clothing would benefit most from a public cloud solution since it would give them the flexibility and scalability they need to meet their evolving business needs.The cloyhing store would also be able to lower their overall It costs by only paying for the resources they reallu utilize with a public cloud solution.
